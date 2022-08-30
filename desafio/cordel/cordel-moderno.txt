@@ -22,7 +22,7 @@ E um coração desenhado.
 
 //---
 
-Arroba agora não pesa
+rroba agora não pesa
 É parte de um endereço
 Ponto final nem se usa
 Ou vai até no começo
